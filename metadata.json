@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Reality2"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Tailscale VPN status and control",
+        "Icon": "network-vpn",
+        "Id": "io.github.reality2_roycdavies.kde-tailscale",
+        "Name": "Tailscale",
+        "Version": "1.0.0",
+        "Website": "https://github.com/reality-two/kde-tailscale"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
